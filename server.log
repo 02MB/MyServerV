@@ -1,0 +1,22 @@
+[10:53:17] alt:V Server, build #1286, branch release
+[10:53:17] Starting alt:V Server on 0.0.0.0:7788
+[10:53:17] Loading resource chat
+[10:53:17] Loaded resource chat
+[10:53:17] Loading resource freeroam
+[10:53:17] Loaded resource freeroam
+[10:53:17] Loading resource example
+[10:53:17] Loaded resource example
+[10:53:17] Starting HTTP server on 0.0.0.0:7788
+[10:53:17] Console thread started (ThreadId: 17484)
+[10:53:17] Main thread started (ThreadId: 29536)
+[10:53:17] Colshape thread started (ThreadId: 29452)
+[10:53:17] EntityStreamer thread started (ThreadId: 19372)
+[10:53:17] Network thread started (ThreadId: 28496)
+[10:53:17] Server started
+[11:09:34] Stopping resource chat
+[11:09:34] Stopped resource chat
+[11:09:34] Stopping resource freeroam
+[11:09:34] Stopped resource freeroam
+[11:09:34] Stopping resource example
+[11:09:34] Stopped resource example
+[11:09:34] Server shutdown
