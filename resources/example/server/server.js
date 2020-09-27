@@ -1,2 +1,2 @@
-//import * as alt from 'alt';
-//server_
+/// <reference types="@altv/types-server" />
+import alt from 'alt-server';
