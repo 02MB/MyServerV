@@ -1,3 +1,4 @@
-log
-txt
-pdf
+*.log
+*.txt
+*.pdf
+*.dmp
